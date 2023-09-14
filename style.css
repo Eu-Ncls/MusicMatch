@@ -56,9 +56,9 @@ main {
     background: linear-gradient(0deg, rgba(0,0,0,1) 0%, rgba(32,32,32,1) 100%);
 }
 
-main h1 {
+main h2 {
     text-align: center;
-    width: 41%;
+    width: 70%;
 }
 
 main .container {
